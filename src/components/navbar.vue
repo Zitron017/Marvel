@@ -17,6 +17,11 @@
         <li>Roster</li>
         <li>News</li>
         <li>Contact</li>
+        <li><router-link to="/sample-data">Sample Data</router-link></li>
+        <li><router-link to="/sample-methods">Sample Methods</router-link></li>
+        <li><router-link to="/sample-vmodel">Live Profile</router-link></li>
+
+
       </ul>
 
       <div class="portal-btn">HERO PORTAL</div>
